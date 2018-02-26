@@ -7,5 +7,5 @@
 
 
 <div align="center">
-    <img height='20px' src='https://raw.githubusercontent.com/revieweer/branding/master/logos/revieweer-r-144.png?raw=true'/>
+    <img height='20px' src='https://raw.githubusercontent.com/revieweer/branding/master/logos/revieweer-r-144.png'/>
 </div>
